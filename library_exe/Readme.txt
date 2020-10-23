@@ -1,0 +1,2 @@
+运行program文件夹内的Library.exe即可
+其他为运行程序所必须的ddl，文档，不可删除
